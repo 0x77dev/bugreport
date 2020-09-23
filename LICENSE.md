@@ -1,5 +1,6 @@
 The MIT License (MIT)
 
+Copyright (c) 2020 Mikhail Marynenko <0x77dev@protonmail.com>
 Copyright (c) Miguel Piedrafita <soy@miguelpiedrafita.com>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
